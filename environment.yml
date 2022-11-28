@@ -1,0 +1,20 @@
+name: power_estimate
+channels:
+        - conda-forge
+        - bioconda
+        - defaults
+dependencies:
+        - r-dplyr
+        - r-multimode
+        - r-stringr
+        - r-spatstat
+        - r-broom
+        - r-data.table
+        - r-tidyr
+        - r-diptest
+        - r-pbapply
+        - r-multimode
+        - r-clustertend
+        - r-future.apply
+        - r-factoextra
+        - r-tidymodels
